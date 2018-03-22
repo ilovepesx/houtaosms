@@ -1,0 +1,17 @@
+{
+    "name": "ilovepesx/houtaosms",
+    "description": "ssss",
+    "authors": [
+        {
+            "name": "ilovepesx",
+            "email": "mingyuzhanshen@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+        },
+    "autoload": {
+        "files": ["TopSdk.php"]
+    }
+}
